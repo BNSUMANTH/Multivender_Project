@@ -3,6 +3,10 @@
 
 This is a full-stack multi-vendor e-commerce marketplace platform, enabling vendors to manage their stores and products, and customers to shop from a wide range of products. The project is built with the MERN stack (MongoDB, Express.js, React.js, Node.js) and features robust authentication, order management, reviews, and more.
 
+## 🚀 Deployment Link
+
+🔗 **Live Demo:** [memeHUB Deployment](<https://multi-vendor-e-commerce-marketplace-8oyi.onrender.com/>)
+
 ## Features
 - Vendor and customer authentication (JWT, role-based)
 - Vendor store management (products, orders, analytics)
