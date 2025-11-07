@@ -5,7 +5,7 @@ This is a full-stack multi-vendor e-commerce marketplace platform, enabling vend
 
 ## 🚀 Deployment Link
 
-🔗 **Live Demo:** [memeHUB Deployment](<https://multi-vendor-e-commerce-marketplace-8oyi.onrender.com/>)
+🔗 **Live Demo:** [Multi-Vendor E-Commerce Marketplace](<https://multi-vendor-e-commerce-marketplace-8oyi.onrender.com/>)
 
 ## Features
 - Vendor and customer authentication (JWT, role-based)
